@@ -1,5 +1,5 @@
 # ft_retro
-A very basic sidescrolling shooter
+A very basic sidescrolling shooter I made with Jo Chang
 
 ![](images/ft_retro.png)
 
